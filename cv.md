@@ -13,4 +13,16 @@
 - LinkedIn: https://www.linkedin.com/in/anna-repeshko/
 
 ---
+## Skils ##
 
+- HTML/CSS
+- Javascript
+- Typescript
+- Git
+- Webpack
+- React
+- Redux, Redux Toolkit
+- Cartography programs: MapInfo, ArcGIS, AutoCAD
+- English A2
+
+---
