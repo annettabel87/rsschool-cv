@@ -53,3 +53,23 @@ engineer surveyor (geodesist)
 engineer surveyor (geodesist)
 
 ---
+## __Code Example__
+```
+const Modal: FC<IModalProps> = React.memo(({ children, open }: IModalProps) => {
+  const domNode = document.getElementById('portal');
+  const element = document.createElement('div');
+  useEffect(() => {
+    domNode?.appendChild(element);
+    return () => {
+      domNode?.removeChild(element);
+    };
+  });
+
+  return open ? ReactDom.createPortal(children, element) : null;
+});
+```
+---
+## examples of work ##
+- https://annettabel87.github.io/social-network/
+- https://annettabel87-react-redux.netlify.app/
+- https://project-management-app-71.netlify.app/
