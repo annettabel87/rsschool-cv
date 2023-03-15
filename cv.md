@@ -26,3 +26,30 @@
 - English A2
 
 ---
+## About me ##
+
+I have always dreamed of being a programmer. And finally decided. I hope my love of learning and new things will help me.
+
+---
+## Education ##
+
+### 2004-2009 ###
+
+**Nizhnevartovsk state university**, geography, gis mapping
+
+### 2020 ###
+
+**CS50**
+
+### 2021 -2022 ###
+
+**RS School**, JS / FRONT-END/ React
+## Work experience ##
+
+### 2012-2021 OOO Zemleustroitelnoe predpriyatie,
+engineer surveyor (geodesist)
+
+### 2009-2012 MUP Zemleustroitelnoe predpriyatie,
+engineer surveyor (geodesist)
+
+---
